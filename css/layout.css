@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: rgba(0, 0, 0, 0.829);
+}
+
+header{
+    background-color: rgba(241, 109, 0, 0.829);
+    box-shadow: 0px 3px 10px rgb(0, 0, 0);
+}
